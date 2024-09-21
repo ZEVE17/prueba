@@ -1,5 +1,3 @@
-# prueba
-s
 <!DOCTYPE html>
 <html lang="es">
 <head>
